@@ -1,0 +1,4 @@
+MYCM Ana Sayfa
+Hosgeldiniz!
+[1] hakkimizda
+[2] iletisim
