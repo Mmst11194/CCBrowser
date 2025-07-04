@@ -37,3 +37,6 @@ Bu proje, [CC: Tweaked](https://tweaked.cc) üzerinde çalışan basit bir web t
 2. Tarayıcıyı başlatmak için Bilgisayar bloğuna:
    ```lua
    browser.lua
+
+# NOT:
+### Hata anında mycm.yazilim@gmail.com ile paylaşınız.
